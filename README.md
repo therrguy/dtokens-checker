@@ -56,9 +56,10 @@ check.start()
 
 ## Problems, Bugs and Suggestions
 
-in case you saw any Problems, Bugs or having a Suggestions you can tell me in the [issues](https://github.com/alimawla69/dtokens-checker/issues/new) OR [Discord Server](https://discord.gg/rr-dev)
+in case you saw any Problems, Bugs or having a Suggestions you can tell me in the [issues](https://github.com/therrguy/dtokens-checker/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
 
 and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
 
 # Contact
 - [Discord Server](https://discord.gg/HFZRWUC)
+
