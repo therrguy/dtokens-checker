@@ -2,9 +2,9 @@
 <a href="https://nodei.co/npm/dtokens-checker/"><img src="https://nodei.co/npm/dtokens-checker.png"></a><BR>
  <a href="https://www.npmjs.com/package/dtokens-checker"><img src="https://img.shields.io/npm/v/dtokens-checker.svg?maxAge=3600" alt="NPM version" /></a>
 <a href="https://www.npmjs.com/package/dtokens-checker"><img src="https://img.shields.io/npm/dt/dtokens-checker.svg?maxAge=3600" alt="NPM downloads" /></a>
- <a href="https://github.com/alimawla69/dtokens-checker/"><img src="https://img.shields.io/github/last-commit/alimawla69/dtokens-checker?style=flat" /></a>
-  <a href="https://github.com/alimawla69/dtokens-checker/stargazers"><img src="https://img.shields.io/github/stars/alimawla69/dtokens-checker?style=flat" /></a>
-  <a href="https://github.com/dtokens-checker"><img src="https://visitor-badge.laobi.icu/badge?page_id=alimawla69.dtokens-checker" /></a>
+ <a href="https://github.com/therrguy/dtokens-checker/"><img src="https://img.shields.io/github/last-commit/therrguy/dtokens-checker?style=flat" /></a>
+  <a href="https://github.com/therrguy/dtokens-checker/stargazers"><img src="https://img.shields.io/github/stars/therrguy/dtokens-checker?style=flat" /></a>
+  <a href="https://github.com/dtokens-checker"><img src="https://visitor-badge.laobi.icu/badge?page_id=therrguy.dtokens-checker" /></a>
  
 A advancd package for checking discord tokens fast and easy to use with loging and exporting system
 
@@ -17,7 +17,7 @@ A advancd package for checking discord tokens fast and easy to use with loging a
 - Support bots-tokens (soon)
 - A output loging system for tokens valid_tokens,invalid_tokens,email_verified,phone_verified,full_verified,not_verified,mfa_enabled,hasnitro
 - A Logger to log everything in console to Logger/23/3/23....txt for every run of the package
-- if you want you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/example)
+- if you want you can see the [examples folder](https://github.com/therrguy/dtokens-checker/tree/main/example)
 
 # REQUIREMENTS
 - A good internet to check tokens faster and run code faster
@@ -52,14 +52,13 @@ const check = new checker('tokens.txt', {
 });
 check.start()
 ```
-## or you can see the [examples folder](https://github.com/alimawla69/dtokens-checker/tree/main/example) in the repo
+## or you can see the [examples folder](https://github.com/therrguy/dtokens-checker/tree/main/example) in the repo
 
 ## Problems, Bugs and Suggestions
 
 in case you saw any Problems, Bugs or having a Suggestions you can tell me in the [issues](https://github.com/alimawla69/dtokens-checker/issues/new) OR [Discord Server](https://discord.gg/rr-dev)
 
-and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/rr-dev)
+and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
 
 # Contact
-- [Discord Server](https://discord.gg/rr-dev)
-- [business.alimawla69@gmail.com](mailto:business.alimawla69@gmail.com)
+- [Discord Server](https://discord.gg/HFZRWUC)
